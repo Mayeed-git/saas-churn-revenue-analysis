@@ -268,7 +268,7 @@ Source file: [CloudTask_Pro_Analysis.pbix](powerbi/CloudTask_Pro_Analysis.pbix)
 | 3 | Improve engagement for customers with feature usage below 50% | Churn reaches 87.85% below 20% usage and falls steeply as usage rises |
 | 4 | Escalate low-NPS and high-support-ticket accounts | Detractors churn at 66.60%; 11+ tickets is the highest-churn ticket band |
 | 5 | Investigate support quality in the 500+ employee segment | This segment has both the highest churn rate (63.16%) and poor support as a leading reason |
-| 6 | Test incentives for annual billing and monitor retention impact; annual customers in the dataset show a 20.19 percentage-point lower churn rate than monthly customers. |
+| 6 | Encourage annual billing at the point of sale | Test incentives for annual billing and monitor retention impact; annual customers in the dataset show a 20.19 percentage-point lower churn rate than monthly customers. |
 
 ## How to Reproduce
 
