@@ -1,0 +1,12 @@
+# Backups
+README.md.bak
+*.bak
+
+# Office / Power BI temp lock files
+~$*
+*.tmp
+
+# OS cruft
+Thumbs.db
+desktop.ini
+.DS_Store
